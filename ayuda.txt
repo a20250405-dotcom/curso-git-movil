@@ -1,0 +1,2 @@
+1. Abre la pantalla para consultar el registro de asistencia.
+2. Revisa el título para identificar la función de la pantalla.
