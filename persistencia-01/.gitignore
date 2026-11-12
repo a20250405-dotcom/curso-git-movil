@@ -1,0 +1,7 @@
+
+asistencias.json
+*.tmp
+
+__pycache__/
+respaldo*/
+pruebas*/
